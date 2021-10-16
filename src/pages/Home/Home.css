@@ -33,6 +33,11 @@
     padding: 25px 25px;
 }
 
+.spacing {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 img{
     height: 250px;
     width: 250px;

@@ -19,11 +19,11 @@ function Home() {
                                 ]}
                             />
                         </h1>
-                        <div>
+                        <div className="spacing">
                             📚 Currently in 3B studying Computer Engineering at the University of Waterloo 🎓
                             
                         </div>
-                        <div>
+                        <div className="spacing">
                             💻 I'm a SWE looking to get more experience within the field 😃
                         </div>    
                     </span>
@@ -37,13 +37,6 @@ function Home() {
                                 <i className="fa fa-github"></i>
                             </a>
                         </div>
-
-                    </div>
-
-                </div>
-
-                <div className="profile-picture">
-                    <div className="profile-picture-background">
 
                     </div>
 

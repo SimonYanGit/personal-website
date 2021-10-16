@@ -7,7 +7,7 @@ function Contact() {
             <div className="card">
                 <div className="container">
                     <h3>
-                        Contact me:
+                        Contact me
                     </h3>
                     <div>
                         📧 Email: simon.zy@yahoo.com
