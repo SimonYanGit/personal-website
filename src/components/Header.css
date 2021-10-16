@@ -1,5 +1,12 @@
+.header {
+    position: fixed;
+    width: 100vw;
+    z-index: 100;
+}
+
 .bg-bg{
-    background-color:#DEE5EE;
+    background-color:#e0e0e0;
+    border-bottom: 1px solid lightgrey;
 }
 
 .toggle {
@@ -8,6 +15,7 @@
 
 .name {
     margin-left: 40px;
+    cursor: pointer;
 }
 
 .item {

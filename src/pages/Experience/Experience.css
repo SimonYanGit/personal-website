@@ -1,0 +1,21 @@
+.exp {
+    background-color: #f1f1f1;
+    display: flex;
+    z-index:50;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.timeline {
+    margin-top: 100px;
+    width: 2500px;
+}
+
+.companyIcons {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid lightgrey;
+    margin-bottom: 10px;
+}

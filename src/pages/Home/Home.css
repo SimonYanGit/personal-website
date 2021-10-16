@@ -1,0 +1,42 @@
+.profile {
+    background-color: #f1f1f1;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    min-height: fit-content;
+}
+
+.col .colIcon i {
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+    color: black;
+    margin: 10px 5px 10px;
+    padding: 5px 10px 5px;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    transition: 0.5s;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    width: 700px;
+}
+
+.card:hover {
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 25px 25px;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}

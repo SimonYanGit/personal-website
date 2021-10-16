@@ -15,10 +15,10 @@ const Header = () => {
     let activeKey = routes[location.pathname];
 
     return (
-        <>
-            <Navbar bg="light" variant="light"
+        <div className="header">
+            <Navbar bg="bg" variant="light"
                 sticky="top" expand="sm">
-                <Navbar.Brand className="name">
+                <Navbar.Brand href="/" className="name">
                     Simon Yan
                 </Navbar.Brand>
         
@@ -31,7 +31,7 @@ const Header = () => {
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
-        </>
+        </div>
     )
 }
 

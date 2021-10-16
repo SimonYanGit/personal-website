@@ -1,0 +1,17 @@
+.contact {
+    background-color: #f1f1f1;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    min-height: fit-content;
+}
+
+.colC .colIconC i {
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+    color: black;
+    margin: 10px 5px 0px;
+    padding: 5px 10px 5px;
+}
