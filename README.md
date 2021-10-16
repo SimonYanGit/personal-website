@@ -1,2 +1,2 @@
-# Learn more about me 😀
+# Portfolio 😀
 https://simonzy.herokuapp.com/
