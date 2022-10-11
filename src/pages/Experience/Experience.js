@@ -7,14 +7,43 @@ import indexEx from './indexc.png'
 import bbb from './bbb.png'
 import sourced from './sourced.png'
 import rogers from './rogers.png'
-import atol from './atol.png'
+import google from './google.png'
 import mcrl from './mcrl.png'
+import aws from './aws.png'
 
 function Experience() {
     return (
         <div className="exp">
             <div className="timeline">
             <VerticalTimeline>
+                <VerticalTimelineElement
+                    className="vertical-timeline-element--work"
+                    date="May 2021 - Aug 2021"
+                    iconStyle={{ background: '#e0e0e0', color: '#fff' }}
+                    icon={<FaBriefcase/>}
+                >
+                    <img src={aws} className="companyIcons" alt=""></img>
+                    <h3 className="vertical-timeline-element-title">Software Engineer</h3>
+                    <h6 className="vertical-timeline-element-subtitle">Amazon Web Services</h6>
+                    <h7 className="vertical-timeline-element-subtitle">Vancouver, ON, Canada</h7>
+                    <p>
+                        GCP Network Security
+                    </p>
+                </VerticalTimelineElement>
+                <VerticalTimelineElement
+                    className="vertical-timeline-element--work"
+                    date="May 2021 - Aug 2021"
+                    iconStyle={{ background: '#e0e0e0', color: '#fff' }}
+                    icon={<FaBriefcase/>}
+                >
+                    <img src={google} className="companyIcons" alt=""></img>
+                    <h3 className="vertical-timeline-element-title">Software Engineer</h3>
+                    <h6 className="vertical-timeline-element-subtitle">Google</h6>
+                    <h7 className="vertical-timeline-element-subtitle">Durham, NC, United States</h7>
+                    <p>
+                        GCP Network Security
+                    </p>
+                </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
                     date="May 2021 - Aug 2021"

@@ -20,11 +20,11 @@ function Home() {
                             />
                         </h1>
                         <div className="spacing">
-                            📚 Currently in 3B studying Computer Engineering at the University of Waterloo 🎓
+                            📚 Currently in 4A studying Computer Engineering at the University of Waterloo 🎓
                             
                         </div>
                         <div className="spacing">
-                            💻 I'm a SWE looking to get more experience within the field 😃
+                            💻 I'm a Software Engineer looking to get more experience within the field 😃
                         </div>    
                     </span>
                     <div className="col">
