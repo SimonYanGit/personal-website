@@ -27,7 +27,7 @@ function Experience() {
                     <h6 className="vertical-timeline-element-subtitle">Amazon Web Services</h6>
                     <h7 className="vertical-timeline-element-subtitle">Vancouver, ON, Canada</h7>
                     <p>
-                        GCP Network Security
+                        AWS S3
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
